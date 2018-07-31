@@ -5,7 +5,7 @@
 ・マイページ実装　　
 ・管理者画面実装　　
 
-# Team_LeisurePass（個人制作分）
+# Team_LeisurePass（チーム制作／自分の担当機能）
 ・宛先情報登録画面
 ![default](https://user-images.githubusercontent.com/39142623/43433663-4eac80de-94b3-11e8-9d02-425c2d274b42.png)
 
